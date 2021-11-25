@@ -61,7 +61,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * Whole-Wheat Semolina Pancakes with Peaches
 
-* Swedish Pancakes
+* [Swedish Pancakes](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Swedish%20Pancakes.md)
 
 * Apple-Rye Pancakes
 
@@ -93,7 +93,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 *  Herbed Goat Cheese Omelet with Cherry Tomato Crush
 *  Turkish Eggs with Olives
 *  Stuffed Buckwheat Crepes
-*  Kimchi Pancakes
+*  [Kimchi Pancakes](https://github.com/EanNewton/Feast/blob/main/little%20meals/Kimchi%20Pancakes.md)
 *  Vegetable Tempura
 *  Grilled Summer Vegetables with Spicy Miso Butter
 *  Romesco Vegetable Platter
