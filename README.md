@@ -37,23 +37,23 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 # Breakfast & Brunch
 
-* Kale Shake
+* [Kale Shake](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Kale%20Shake.md)
 
-* Savory Oats with Peas and Aged Gouda
+* [Savory Oats with Peas and Aged Gouda](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Savory%20Oats%20with%20Peas%20and%20Aged%20Gouda.md)
 
 * Hot Cereal for Four Seasons
 
-	* Spring: Oats with Strawberries and "Cream"
+	* Spring: [Oats with Strawberries and "Cream"](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Oats%20with%20Strawberries%20and%20Cream.md)
 
-	* Summer: Oats with Berries and Walnut Crumble
+	* Summer: [Oats with Berries and Walnut Crumble](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Oats%20with%20Berries%20and%20Walnut%20Crumble.md)
 
-	* Fall: Oats with Grated Pear, Pecans, and Lemon Yogurt
+	* Fall: [Oats with Grated Pear, Pecans, and Lemon Yogurt](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Oats%20with%20Grated%20Pear%2C%20Pecans%2C%20and%20Lemon%20Yogurt.md)
 
-	* Winter: Oats with Plumped Dried Plums and Lime
+	* Winter: [Oats with Plumped Dried Plums and Lime](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Oats%20with%20Plumped%20Dried%20Plums%20and%20Lime.md)
 
-* Creamy Herbed Eggs
+* [Creamy Herbed Eggs](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Creamy%20Herbed%20Eggs.md)
 
-* Country Eggs and Gravy with Arugula
+* [Country Eggs and Gravy with Arugula](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Country%20Eggs%20and%20Gravy%20with%20Arugula.md)
 
 * Eggs Kimchi
 
