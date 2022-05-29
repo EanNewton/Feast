@@ -55,15 +55,15 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Country Eggs and Gravy with Arugula](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Country%20Eggs%20and%20Gravy%20with%20Arugula.md)
 
-* Eggs Kimchi
+* [Eggs Kimchi](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Eggs%20Kimchi.md)
 
-* Avocado-Cheese Arepas
+* [Avocado-Cheese Arepas](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Avocado-Cheese%20Arepas.md)
 
-* Whole-Wheat Semolina Pancakes with Peaches
+* [Whole-Wheat Semolina Pancakes with Peaches](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Whole-Wheat%20Semolina%20Pancakes%20with%20Peaches.md)
 
 * [Swedish Pancakes](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Swedish%20Pancakes.md)
 
-* Apple-Rye Pancakes
+* [Apple-Rye Pancakes](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Apple-Rye%20Pancakes.md)
 
 * Whole-Grain Hazelnut Belgian Waffles with Strawberries
 
