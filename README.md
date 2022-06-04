@@ -65,7 +65,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Apple-Rye Pancakes](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Apple-Rye%20Pancakes.md)
 
-* Whole-Grain Hazelnut Belgian Waffles with Strawberries
+* [Whole-Grain Hazelnut Belgian Waffles with Strawberries](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Whole-Grain%20Hazelnut%20Belgian%20Waffles%20with%20Strawberries.md)
 
 * High-Rising Buttermilk Biscuits
 
