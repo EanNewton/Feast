@@ -67,9 +67,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Whole-Grain Hazelnut Belgian Waffles with Strawberries](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Whole-Grain%20Hazelnut%20Belgian%20Waffles%20with%20Strawberries.md)
 
-* High-Rising Buttermilk Biscuits
+* [High-Rising Buttermilk Biscuits](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/High-Rising%20Buttermilk%20Biscuits.md)
 
-* Toasted Semolina Raisin Scones
+* [Toasted Semolina Raisin Scones](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Toasted%20Semolina%20Raisin%20Scones.md)
 
 * Homemade Four-Grain English Muffins
 
