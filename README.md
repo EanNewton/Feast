@@ -73,11 +73,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Toasted Semolina Raisin Scones](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Toasted%20Semolina%20Raisin%20Scones.md)
 
-* Homemade Four-Grain English Muffins
+* [Homemade Four-Grain English Muffins](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Homemade%20Four-Grain%20English%20Muffins.md)
 
-* Genmaicha Granola Bars
+* [Genmaicha Granola Bars](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Genmaicha%20Granola%20Bars.md)
 
-* Mustard Greens, Cheddar, and Farm Egg Breakfast Pizza
+* [Mustard Greens, Cheddar, and Farm Egg Breakfast Pizza](https://github.com/EanNewton/Feast/blob/main/breakfast%20and%20brunch/Mustard%20Greens%2C%20Cheddar%2C%20and%20Farm%20Egg%20Breakfast%20Pizza.md)
 
 ---
 
