@@ -83,8 +83,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 # Little Meals
 
-* Hummus
-* Roasted Broccoli, Kale, and Chickpeas with Ricotta
+* [Hummus](https://github.com/EanNewton/Feast/blob/main/little%20meals/Hummus.md)
+* [Roasted Broccoli, Kale, and Chickpeas with Ricotta](https://github.com/EanNewton/Feast/blob/main/little%20meals/Roasted%20Broccoli%2C%20Kale%2C%20and%20Chickpeas%20with%20Ricotta.md)
 * Green Beans with Tomatoes, Onions, and Gigantes Beans
 * Caprese for Four Seasons
   * Spring: Pea Mash with Burrata and Mint
@@ -119,12 +119,12 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * Kale and Kimchi Salad
 * Buttermilk Fried Tofu Salad with Greens and Asparagus
 * Watermelon, Cucumber, and Avocado Salad with Ricotta
-* Radish Salad with Aged Parmesan
+* [Radish Salad with Aged Parmesan](https://github.com/EanNewton/Feast/blob/main/salads%20and%20sides/Radish%20Salad%20with%20Aged%20Parmesan.md)
 * Radish, Enoki, Tangerine, and Avocado Salad
-* Roasted Carrot, Hazelnut, and Radicchio Salad with Honey and Orange
+* [Roasted Carrot, Hazelnut, and Radicchio Salad with Honey and Orange](https://github.com/EanNewton/Feast/blob/main/salads%20and%20sides/Roasted%20Carrot%2C%20Hazelnut%2C%20and%20Radicchio%20Salad%20with%20Honey%20and%20Orange.md)
 * Wild Mushroom and Little Gem Salad
 * More Greens Than Potato Salad
-* Warm Winter Vegetables with Farro
+* [Warm Winter Vegetables with Farro](https://github.com/EanNewton/Feast/blob/main/salads%20and%20sides/Warm%20Winter%20Vegetables%20with%20Farro.md)
 * Roasted Vegetables for Four Seasons
   * Spring: Asparagus with Miso Butter
   * Summer: Green Beans with Yogurt and Cinnamon
@@ -146,10 +146,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * The Veggie Stack Sandwich
 * Arugula, Egg, and Avocado on Flatbread
 * Tartine for Four Seasons
-* Spring: Radish, Ricotta, and Black Pepper Tartine
-* Summer: Heirloom Tomato Tartine
-* Fall: Endive, Pear, and Truffle Honey Tartine
-* Winter: Apple, Avocado, and Gravlax Tartine
+    * Spring: Radish, Ricotta, and Black Pepper Tartine
+    * Summer: Heirloom Tomato Tartine
+    * Fall: [Endive, Pear, and Truffle Honey Tartine](https://github.com/EanNewton/Feast/blob/main/sandwiches%20and%20tortillas/tartine%20for%20four%20season/Fall%20Endive%2C%20Pear%2C%20and%20Truffle%20Honey%20Tartine.md)
+    * Winter: Apple, Avocado, and Gravlax Tartine
 * Lentil-Chickpea Burgers with Harissa Yogurt
 * Corn Tortillas
 * Baja Flour Tortillas
@@ -211,7 +211,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * Pizza for Four Seasons
   * Spring: White Pizza with Arugula and Ricotta Salata
   * Summer: Heirloom Tomato Pie
-  * Fall: Sweet Potato, Brown Butter, and Sage Pie
+  * Fall: [Sweet Potato, Brown Butter, and Sage Pie](https://github.com/EanNewton/Feast/blob/main/meals%20to%20share/pizza%20for%20four%20seasons/Fall%20Sweet%20Potato%2C%20Brown%20Butter%2C%20and%20Sage%20Pie.md)
   * Winter: Robiola, Shaved Brussels Sprouts, and Walnut Pizza
 
 ---
