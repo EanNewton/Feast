@@ -12,7 +12,7 @@
 * 1 ripe pear, thinly sliced
 * 8 oz / 220 g Gorgonzola dolce, or other soft blue cheese, cut into thin slivers
 * Truffle honey or raw honey and truffle oil for drizzling
-* Tasted hazelnuts
+* Toasted hazelnuts
 
 ---
 
